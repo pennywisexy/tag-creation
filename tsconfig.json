@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./buid/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "es2022",
+    "target": "es2021",
+    "allowJs": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
